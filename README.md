@@ -48,5 +48,6 @@ _**Heaven’s Light is Our Guide**_
 
 | Lab No. | Title | Link |
 | :---: | :---: | :---: |
-| 01 | Basic logic circuit implementation | [Lab 01](https://github.com/saimur-rahman2301/ECE-2112_2410027/blob/main/Lab-01%20(Report).pdf)|
+| 01 | Basic logic gate implementation | [Lab 01](https://github.com/saimur-rahman2301/ECE-2112_2410027/blob/main/Lab-01%20(Report).pdf)|
+| 02 | Simplification and logic circuit implementation | [Lab 02](https://github.com/saimur-rahman2301/ECE-2112_2410027/blob/main/Lab-02%20(Report).pdf)|
 </div>
